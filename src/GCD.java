@@ -6,6 +6,12 @@ class GCD {
         System.out.print("Enter first number: ");
         int a = sc.nextInt();
         System.out.print("Enter second number: ");
+        System.out.print("Enter second number: ");
+        System.out.print("Enter second number: ");
+        System.out.print("Enter second number: ");
+        System.out.print("Enter second number: ");
+        System.out.print("Enter second number: ");
+        System.out.print("Enter second number: ");
         int b = sc.nextInt();
 
         while (b != 0) {
